@@ -1,4 +1,4 @@
-# monoplus Attic 🏚️
+# monoplus Attic
 
 このOrganizationは、現役を退いたリポジトリの保管場所です。
 すべてのリポジトリは **読み取り専用（archived）** です。
